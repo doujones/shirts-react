@@ -1,0 +1,12 @@
+.form{
+  margin: 0 auto;
+  border-style: solid;
+  padding: 32px;
+  width: 260px;
+  height: 260px;
+}
+
+.form-box{
+  margin: 0 auto;
+  text-align: center;
+}
