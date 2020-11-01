@@ -17,7 +17,7 @@ const Header = () => {
                 </Navbar.Collapse>
              </Container>
          </Navbar>
-         </header>
+        </header>
     )
 }
 
