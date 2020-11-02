@@ -1,0 +1,12 @@
+{
+    "id": "1",
+    "name": "Cake without sugar",
+    "description":
+       "Baking cakes without sugar, is the new norm for the public.",
+    "brand": "Publix",
+    "category": "Bakery",
+    "price": "100.99",
+    "countInStock": "4",
+    "rating": "4",
+    "numReviews": "3"
+}
