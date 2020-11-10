@@ -1,5 +1,7 @@
 import React from 'react'
-import services from '../../../public/services'
+import services from '../services'
+import Sale from './Sale'
+import { Row, Col } from 'react-bootstrap'
 
 function Sales() {
     return (
@@ -8,7 +10,7 @@ function Sales() {
             <Row>
               {services.map((service) => (
                   <Col sm={12} md={6} lg={4} xl={3}>
-                    <Services service={service}/>
+                    <Sale service={service}/>
                   </Col>
               ))}    
             </Row> 
