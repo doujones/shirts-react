@@ -32,4 +32,11 @@ h1{
   height: 3rem;
   color: black;
   background-color: chocolate;
+  margin-bottom: 2rem;
+  cursor: pointer;
+}
+
+.input-submit:hover{
+  background-color: darkblue;
+  color: white;
 }
